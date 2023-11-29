@@ -1,0 +1,8 @@
+setup.py
+Cliente_Tienda/ModuloCliente.py
+Cliente_Tienda/ModuloTienda.py
+Cliente_Tienda/__init__.py
+Segunda_pre_entrega_Santillan.egg-info/PKG-INFO
+Segunda_pre_entrega_Santillan.egg-info/SOURCES.txt
+Segunda_pre_entrega_Santillan.egg-info/dependency_links.txt
+Segunda_pre_entrega_Santillan.egg-info/top_level.txt
